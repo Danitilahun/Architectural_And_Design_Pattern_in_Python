@@ -1,8 +1,8 @@
+## Design Pattern Classification by Intent
 * Design patterns offer standard solutions for common problems encountered in software design.
 * These patterns resemble pre-made blueprints that you can tailor to address recurring design challenges within your codebase.
-## Design Pattern Classification by Intent
 
-Design patterns can be classified based on their intent or purpose.  Here's a breakdown of the common categories:
+* Design patterns can be classified based on their intent or purpose.  Here's a breakdown of the common categories:
 
 **1. Creational Patterns:**
 
