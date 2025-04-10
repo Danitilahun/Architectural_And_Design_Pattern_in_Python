@@ -10,7 +10,7 @@ The Command pattern turns a request into a stand-alone object containing all inf
 *   Delay or queue a request's execution.
 *   Support undoable operations.
 
-![Diagram](./diagram.png)
+![Diagram](./image/diagram.png)
 
 ## Problem
 
@@ -94,4 +94,4 @@ Client code (GUI elements, command history) works with commands via the command 
 *   **Prototype:** Can help when saving copies of Commands into history.
 *   **Visitor:** Can be treated as a powerful version of the Command pattern, able to execute operations over various objects of different classes.
 
-![Note](./note.png)
+![Note](./image/note.png)
