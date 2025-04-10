@@ -60,4 +60,4 @@ Two main implementations:
 *   Increases code complexity due to new classes and interfaces.
 *   Sometimes, modifying the Service class directly might be simpler.
 
-![Note](./Image/note.png)
+![Note](./image/note.png)
