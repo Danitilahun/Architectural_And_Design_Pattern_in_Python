@@ -1,6 +1,6 @@
-# Load Balancing (Consistent Hashing)
+# Load Balancing ( Hashing)
 
-Consistent hashing is crucial for building scalable systems.
+Hashing is crucial for building scalable systems.
 
 ## 1. The Server-Client Model
 
@@ -49,8 +49,6 @@ Consistent hashing is crucial for building scalable systems.
     * server 1 : -10 buckets changed
     * server 2 :+10 buckets changed
 *   **Worst Case:**  The cost of the change can be equal to the entire sort space (e.g. there can be *100% remapping*).
-
-![Pie chart](./image/bestremap.png)
 
 ## 7. The Importance of Caching & "Sticky" Sessions
 
